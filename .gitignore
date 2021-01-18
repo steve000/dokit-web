@@ -1,0 +1,6 @@
+**/.idea
+**/dist
+**/dll
+**/node_modules
+**/.svn
+*.sh
